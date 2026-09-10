@@ -24,3 +24,5 @@ A Python-based automation script designed to detect and delete duplicate files f
 ## Project Type
 
 Python Automation Project
+
+# Added Test Files ALSO
